@@ -7,13 +7,13 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 ## Weekly Overview
 
 
- ### [Week 1: Introduction to Data Visualization and Tools](week1.md)
+ ### [Week 1: Introduction to Data Visualization and Tools](Week1.md)
  **Summary**:
 - Introduction to the course, syllabus, and key tools for communication.
 - Focus on collecting and visualizing data using Google Forms and Google Sheets.
 - Introduction to GitHub and Markdown for documentation.
 
-### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](week2.md)
+### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](Week2.md)
 **Summary**: 
 - **Google Colab**: Get acquainted with **Google Colab** as a powerful cloud-based platform for writing and executing Python code. Learn how to create and manage notebooks for data analysis and visualization.
 
