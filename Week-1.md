@@ -32,7 +32,9 @@ Hello Everyone! Here’s a quick recap of Week 1 and then we’ll dive into the 
 
 ## Documentation with GitHub
 - We discussed the importance of **documentation** in data projects. We’ll use GitHub to document everything.
-- Make sure to **fork my course repository** on GitHub: [Data110-32213](https://github.com/Reben80/Data110-32213).
+- Make sure to **fork my course repository** on GitHub: [Data110-22016](https://github.com/Reben80/Data110-22016).
+
+
 
 ---
 
