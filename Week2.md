@@ -56,10 +56,9 @@ We compared Exploratory Visualization (used for analyzing and understanding data
 # Examples:
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=19992.255291973044&y=21168.629572051443&z=6703.234703310886&v=2) (Exploratory)
 - [The Fallen of World War II](http://www.fallen.io/ww2/) (Explanatory)
-- [538: Various Sports Analyses](http://fivethirtyeight.com/) (Explanatory)
 
-**Question of the Week:**
-"In data-driven fields, do business analysts primarily use exploratory visualization while data scientists lean towards explanatory visualization for definitive insights?"
+
+
 
 ---
 
