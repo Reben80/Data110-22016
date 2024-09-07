@@ -44,9 +44,14 @@ We watched "Same Stats, Different Graphs - CHI 2017," emphasizing the significan
 ---
 
 ## A Powerful Visualization Example
-We reviewed a New York Times article as an excellent example of meaningful data visualization and storytelling. 
 
-[Read the NY Times Article on ‘Stop-and-Frisk’](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html?_r=0)
+ We will review two impactful New York Times articles that showcase the power of data visualization and storytelling:
+
+   - [Stop-and-Frisk is All but Gone from New York](https://www.nytimes.com/interactive/2014/09/19/nyregion/stop-and-frisk-is-all-but-gone-from-new-york.html?_r=0): This article uses data visualization to explore the decline of the controversial stop-and-frisk policy in New York.
+   
+   - [Police Response to Uvalde and Buffalo Shootings](https://www.nytimes.com/interactive/2022/06/22/us/shootings-police-response-uvalde-buffalo.html): This interactive piece illustrates how data can shed light on the timeline of police responses in two tragic mass shootings.
+
+Both articles serve as excellent examples of how well-crafted visuals can enhance storytelling and deepen understanding of complex issues.
 
 ---
 
