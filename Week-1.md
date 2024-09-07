@@ -90,13 +90,13 @@ Hello Everyone! Here’s a quick recap of Week 1 and then we’ll dive into the 
   - Starting your own repository for **Data110**.
   - Sharing the repository link in the collaborative Excel file on MS Teams.
   - Creating a folder named `dataset`.
-  - Uploading the `happiness.csv` file, which is located in our [Data110 GitHub repository](https://github.com/Reben80/Data110-32213), to your dataset folder.
+  - Uploading the `happiness.csv` file, which is located in our [Data110-22016](https://github.com/Reben80/Data110-22016), to your dataset folder.
 
 ---
 
 ## Documentation with GitHub
 - We discussed the importance of **documentation** in data projects. We’ll use GitHub to document everything.
-- Make sure to **fork my course repository** on GitHub: [Data110-32213](https://github.com/Reben80/Data110-32213).
+- Make sure to **fork my course repository** on GitHub: [Data110-22016](https://github.com/Reben80/Data110-22016).
 
 ---
 
