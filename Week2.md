@@ -116,7 +116,7 @@ This week we delved into the powerful capabilities of Google Colab for data anal
 
 1. **Understanding Anscombe's Quartet**:
    - Complete the tasks in the Jupyter Notebook. Ensure the notebook is compatible with Google Colab for a seamless experience.
-   - [Understanding Anscombe's Quartet Notebook](Understanding_Anscombe's_Quartet.ipynb)
+   - [Understanding Anscombe's Quartet Notebook](Week2_Python_HW_Anscombe's_Quartet.ipynb)
 
 2. **Exploring Temperature Trends in Death Valley**:
    - Open and run all the code cells in the Jupyter Notebook. Verify that it runs smoothly on Google Colab.
