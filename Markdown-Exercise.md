@@ -13,6 +13,4 @@ Okay... I know I have to do more.. will be back to later after class, still have
 -[]
 
 
-![Joy Plot Inspired Design](media/joy-plot%201.jpg)
-
-![This is Test image, this image does not exist yet](test image.jpg)
+![My student watching a quilt in DC](IMG_2046.JPG)
