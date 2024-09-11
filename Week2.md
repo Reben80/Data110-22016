@@ -121,7 +121,7 @@ This week we delved into the powerful capabilities of Google Colab for data anal
 2. **Exploring Trends in the Happiness Dataset**:
 - Open and run all the code cells in your Jupyter Notebook. Verify that it runs smoothly on Google Colab.
 - Analyze various factors that may influence happiness using scatter plots from the Happiness dataset.
-- [Exploring Happiness Trends Notebook](your_notebook_link.ipynb)
+- [Exploring Happiness Trends Notebook](week2_Python_in_class_work.ipynb)
 
 ### Additional Tasks for Students:
 - **Happiness Score vs Social Support** (`Social support`)
