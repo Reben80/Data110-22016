@@ -15,7 +15,7 @@ The graph design of our dataset is inspired by the iconic visual from Joy Divisi
 ## 2. A Journey Through Data Visualization History
 A good place to learn about History of Data Visualizaion is the articale  "A Brief History of Data Visualization" by Michael Friendly to understand the evolution and milestones in visualizing data.
 
-[A Brief History of Data Visualization](A_Brief_History_of_Data_Visualization-2.pdf)
+[A Brief History of Data Visualization](reading/A_Brief_History_of_Data_Visualization-2.pdf)
 
 ---
 
