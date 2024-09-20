@@ -87,12 +87,11 @@ This assignment will challenge you to create various line and scatter plots, cus
 
 
 1. 📈 [Line Plots Tutorial](Week3_line_plots.ipynb)
-   - Master the art of creating and customizing line plots
+   - Learn to visualize and creating and customizing line plots
    - Explore various line styles, colors, and markers
 
-2. 🔵 [Scatter Plot Workshop](Week3_Scatter_Plot.ipynb)
+2. 🔵 [Scatter Plot Tutorial](Week3_Scatter_Plot.ipynb)
    - Learn to visualize data points with scatter plots
-   - Discover techniques for representing multiple variables
 
 These notebooks contain hands-on examples and code snippets that complement our lecture material. They're designed to help you practice and reinforce your understanding of Matplotlib's capabilities.
 
