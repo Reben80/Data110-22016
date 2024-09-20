@@ -77,14 +77,28 @@ Throughout the week, you'll also learn about:
 - Combining line and scatter elements in a single plot
 
 ### Week 3 Assingment 
-![Week3_Assignment.md](Week3_Assignment.md)
 
 Note: For practical examples and the Python code covered in this week's topics, please refer to the following Jupyter notebooks in our course GitHub repository:
+Dive deeper into this week's topics with our interactive Jupyter notebooks:
 
-- ![Week3_line_plots.ipynb](Week3_line_plots.ipynb)
-- ![Week3_Scatter_Plot.ipynb](Week3_Scatter_Plot.ipynb)
+1. 📈 [Line Plots Tutorial](Week3_line_plots.ipynb)
+   - Master the art of creating and customizing line plots
+   - Explore various line styles, colors, and markers
 
-These notebooks, located in the main folder of our GitHub repository, contain the actual Python code demonstrating the concepts we've covered regarding line plots and scatter plots. They serve as valuable resources for your hands-on practice and reference.
+2. 🔵 [Scatter Plot Workshop](Week3_Scatter_Plot.ipynb)
+   - Learn to visualize data points with scatter plots
+   - Discover techniques for representing multiple variables
+
+These notebooks contain hands-on examples and code snippets that complement our lecture material. They're designed to help you practice and reinforce your understanding of Matplotlib's capabilities.
+
+Happy coding! 💻✨
+
+
+
+
+
+_______
+
 You can find all course materials in our Data110-22016 GitHub Repository.
 
 
