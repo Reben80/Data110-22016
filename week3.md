@@ -76,10 +76,15 @@ Throughout the week, you'll also learn about:
 - Setting axis properties and limits
 - Combining line and scatter elements in a single plot
 
-### Week 3 Assingment 
 
-Note: For practical examples and the Python code covered in this week's topics, please refer to the following Jupyter notebooks in our course GitHub repository:
-Dive deeper into this week's topics with our interactive Jupyter notebooks:
+[📝 Week 3 Assignment: Line and Scatter Plots](Week3_Assignment.md)
+
+This assignment will challenge you to create various line and scatter plots, customize their appearance, and visualize mathematical functions using Matplotlib. Good luck!
+
+
+
+### Remark 
+
 
 1. 📈 [Line Plots Tutorial](Week3_line_plots.ipynb)
    - Master the art of creating and customizing line plots
