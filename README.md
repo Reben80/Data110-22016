@@ -21,7 +21,8 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 
 ### [Week 3: Data Visualization with Matplotlib in Python](week3.md)
-Summary:
+**Summary**:
+- Summary: Introduction to **Matplotlib** for creating line and scatter plots in Python. Learn to customize plots with different styles, colors, and markers, and visualize various mathematical functions using these fundamental plotting techniques.
 
 
 
