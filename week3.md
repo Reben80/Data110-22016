@@ -76,6 +76,9 @@ Throughout the week, you'll also learn about:
 - Setting axis properties and limits
 - Combining line and scatter elements in a single plot
 
+### Week 3 Assingment 
+![Week3_Assignment.md](Week3_Assignment.md)
+
 Note: For practical examples and the Python code covered in this week's topics, please refer to the following Jupyter notebooks in our course GitHub repository:
 
 - ![Week3_line_plots.ipynb](Week3_line_plots.ipynb)
