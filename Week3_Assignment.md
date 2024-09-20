@@ -102,4 +102,4 @@ Your assignment will be evaluated based on:
 - Thoughtful comparison of different styles
 - Successful submission to GitHub
 
-Good luck!
+Good luck and happy Python coding!
