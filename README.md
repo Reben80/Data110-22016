@@ -20,7 +20,7 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 - **Python Basics**: Introduction to fundamental Python concepts, including variables, data types, loops, and basic data structures. Start writing simple Python scripts to manipulate and analyze data.
 
 
-### [Week 3: Data Visualization with Matplotlib in Python](Week3.md)
+### [Week 3: Data Visualization with Matplotlib in Python](week3.md)
 Summary:
 
 
