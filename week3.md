@@ -78,8 +78,8 @@ Throughout the week, you'll also learn about:
 
 Note: For practical examples and the Python code covered in this week's topics, please refer to the following Jupyter notebooks in our course GitHub repository:
 
-![Week3_line_plots.ipynb](Week3_line_plots.ipynb)
-![Week3_Scatter_Plot.ipynb](Week3_Scatter_Plot.ipynb)
+- ![Week3_line_plots.ipynb](Week3_line_plots.ipynb)
+- ![Week3_Scatter_Plot.ipynb](Week3_Scatter_Plot.ipynb)
 
 These notebooks, located in the main folder of our GitHub repository, contain the actual Python code demonstrating the concepts we've covered regarding line plots and scatter plots. They serve as valuable resources for your hands-on practice and reference.
 You can find all course materials in our Data110-22016 GitHub Repository.
