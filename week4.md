@@ -131,3 +131,32 @@ Justin Wolfers shared new crime data on X (formerly Twitter) showing significant
 Link to the tweet: [Justin Wolfers on X](https://x.com/JustinWolfers/status/1838712445524668818)
 
 
+
+
+---
+
+## Anatomy of a Matplotlib Figure
+
+This diagram provides a clear overview of the different components that make up a typical **matplotlib figure**. Understanding these elements is crucial for customizing and fine-tuning your visualizations.
+
+![Anatomy of a Figure](media/anatomy.webp)
+
+- **Figure (`plt.figure`)**: The entire window or canvas where your plots appear.
+- **Axes**: The region where the actual data is plotted, automatically created when you use `plt.plot()`.
+- **Title (`plt.title`)**: Describes the plot, placed at the top.
+- **Line (`plt.plot`)**: Represents continuous data, like the blue and orange curves in the diagram.
+- **Markers (`plt.plot` with markers)**: Used to plot individual data points, by adding a marker style like `'o'` or `'s'`.
+- **Grid (`plt.grid`)**: Helps with readability by adding reference lines behind the plot.
+- **Spine**: The borders around the plot area, created by default but can be hidden or customized.
+- **Ticks and Labels**: 
+  - **Major/Minor ticks**: Used to indicate specific data points along the axes.
+  - **Tick labels**: Show the actual values corresponding to each tick.
+  - **x/y-axis labels (`plt.xlabel`, `plt.ylabel`)**: Indicate what the x and y axes represent.
+  
+Each part of this figure can be customized when using **pyplot** functions like `plt.plot()`, making it easy to create simple and effective visualizations.
+
+**Source**: [Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)
+
+
+
+
