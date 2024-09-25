@@ -122,10 +122,12 @@ Bar graphs are useful for many scenarios but can fall short when dealing with co
 
 ## Example: Justin Wolfers on Crime Data
 
-Justin Wolfers shared new crime data on X (formerly Twitter) showing significant drops in crime across various categories. A **bar graph** would effectively visualize these reductions, making it easy to compare the changes in different crime types.
+Justin Wolfers shared new crime data on X (formerly Twitter) showing significant drops in crime across various categories. A **bar graph**, like the one below, would effectively visualize these reductions, making it easy to compare the changes in different crime types.
+
+![Crime Rate Example](media/crime_rate.jpeg)
 
 - **Why it’s useful**: A bar chart allows clear comparison across categories, such as different crime rates, helping the audience quickly grasp the overall decline.
-  
+
 Link to the tweet: [Justin Wolfers on X](https://x.com/JustinWolfers/status/1838712445524668818)
 
 
