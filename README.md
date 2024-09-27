@@ -27,6 +27,15 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 ### [Week 4: Bar Graph with Matplotlib](week4.md)
 
+**Summary**:
+
+**Week Focus**: Using bar graphs to compare numerical values across categories.
+- Bar Graph Types:
+  -  Simple Bar Charts: Individual amounts; start y-axis at zero.
+  -   Grouped Bar Charts: Compare values within a category.
+  -   Stacked Bar Charts: Show parts of a whole.
+   
+
 **Note**:  
 To review material from last year, please check this repository:  
 [Data110-32213 Repository](https://github.com/Reben80/Data110-32213)
