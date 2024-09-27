@@ -2,7 +2,7 @@
 
 **Answer**:  
 We do not use one single source, but this class draws heavily from materials presented in the following book:  
-*Claus O. Wilke. Fundamentals of Data Visualization.* O’Reilly Media, 2019.
+*Claus O. Wilke. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/).* O’Reilly Media, 2019.
 
 ---
 
