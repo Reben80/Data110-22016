@@ -35,7 +35,17 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
   -   Grouped Bar Charts: Compare values within a category.
   -   Stacked Bar Charts: Show parts of a whole.
    
+-----------
+
+### [Q&A](Q&A.md)
+
+
+
+
+
 
 **Note**:  
 To review material from last year, please check this repository:  
 [Data110-32213 Repository](https://github.com/Reben80/Data110-32213)
+
+
