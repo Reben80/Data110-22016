@@ -1,5 +1,7 @@
 # Crime Data Visualization (2022-2023)
 
+
+
 In this assignment, we will analyze real-world crime data from 2022 to 2023, sourced from the **FBI's Crime Data** as reported by the Brennan Center. According to the Brennan Center’s analysis, most crimes, including murder, have seen significant drops in 2023.
 
 Source: [FBI Data Confirms Drop in Most Crimes in 2023, Especially Murders](https://www.brennancenter.org/our-work/analysis-opinion/fbi-data-confirms-drop-most-crimes-2023-especially-murders)
@@ -56,16 +58,11 @@ In this optional task, you will create a **combined bar chart** that shows the c
 
 ### Instructions:
 - Calculate the **crime rates for 2022** based on the 2023 values and the percentage changes provided.
-  - Use the formula:
-   $$
-    \text{Crime Rate in 2022} = \frac{\text{Crime Rate in 2023}}{1 + \frac{\text{Percentage Change}}{100}}
-    $$
-  - For example, if the crime rate for **Motor Vehicle Theft** in 2023 is **318.7** with a **12% increase**, you would calculate the 2022 value as:
- $$
-    \text{Crime Rate in 2022} = \frac{318.7}{1 + \frac{12}{100}} = 284.5
-    $$
-    
 - Create a **combined bar chart** that compares the crime rates for 2022 and 2023 for each offense type.
 - Use different colors to distinguish between the years 2022 and 2023.
 - Label the axes and add a title.
 - Add a legend to indicate which bars represent which year.
+
+### Remark:
+- You are required to complete this task in **Google Colab**. Name your file **Data110_YourName_Week4**. 
+- When submitting your assignment, upload your code, calculations, and final bar chart in the Google Colab Notebook and share the link to your Colab notebook.
