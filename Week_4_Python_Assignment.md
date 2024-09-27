@@ -49,10 +49,23 @@ In this task, you will create a **horizontal bar chart** that visualizes the **p
    - Experiment with different color schemes, labels, and gridlines.
    - In each iteration, focus on improving the ease with which someone can quickly understand the trends in crime rates.
 
----
 
-## Summary
+## Optional Task: Combined Bar Chart for Crime Rates in 2022 and 2023
 
-- In **Task 1**, you created a bar chart to display the number of offenses per 100,000 people in 2023.
-- In **Task 2**, you visualized the percentage change in crime rates between 2022 and 2023, assigning each crime type a unique color. You also progressively improved the clarity of your bar graph.
-- You will also reflect on **why visualizing the percentage change** in crime rates over time is more meaningful than just looking at raw offense rates for a single year.
+In this optional task, you will create a **combined bar chart** that shows the crime rates for both **2022 and 2023**. 
+
+### Instructions:
+- Calculate the **crime rates for 2022** based on the 2023 values and the percentage changes provided.
+  - Use the formula:
+    \[
+    \text{Crime Rate in 2022} = \frac{\text{Crime Rate in 2023}}{1 + \frac{\text{Percentage Change}}{100}}
+    \]
+  - For example, if the crime rate for **Motor Vehicle Theft** in 2023 is **318.7** with a **12% increase**, you would calculate the 2022 value as:
+    \[
+    \text{Crime Rate in 2022} = \frac{318.7}{1 + \frac{12}{100}} = 284.5
+    \]
+    
+- Create a **combined bar chart** that compares the crime rates for 2022 and 2023 for each offense type.
+- Use different colors to distinguish between the years 2022 and 2023.
+- Label the axes and add a title.
+- Add a legend to indicate which bars represent which year.
