@@ -124,3 +124,10 @@ Key ways to use color in Matplotlib:
 - **Colormaps**: Ideal for heatmaps, offering gradients such as `'viridis'` or `'plasma'`.
 
 For more on colors, visit the [Matplotlib Color Documentation](https://matplotlib.org/stable/users/explain/colors/colors.html).
+
+
+----------
+Week 4 supplement
+1. ![Python Lab](Week_4_Python(Fall2024).ipynb)
+2. ![Assinment](Week_4_Python_Assignment.md)
+3. 
