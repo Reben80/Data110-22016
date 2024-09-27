@@ -173,7 +173,6 @@ This image shows different ways you can specify colors in Matplotlib. From using
 
 For more detailed guidelines on using colors in Matplotlib, check out the [Matplotlib Color Documentation](https://matplotlib.org/stable/users/explain/colors/colors.html).
 
-Source: [Matplotlib Color Documentation](https://matplotlib.org/stable/users/explain/colors/colors.html)
 
 
 
