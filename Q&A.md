@@ -62,4 +62,4 @@ Markdown is an essential tool for any data scientist or developer. It's a lightw
 ### Question 8: To be successful in this course and Data Science, do I need to be an expert in any field?
 
 **Answer**:  
-No, you don’t need to be an expert. What matters most is curiosity and a willingness to work hard. Success in this course and in Data Science is driven by a desire to explore new concepts, solve problems, and continuously learn. Also, don't hesitate to learn from your classmates and make use of office hours for additional support. With persistence and effort, you’ll build the skills needed over time.
+No, you don’t need to be an expert. What matters most is curiosity and a willingness to work hard and ask for guidence when you feel lost. 
