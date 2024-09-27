@@ -158,5 +158,7 @@ Each part of this figure can be customized when using **pyplot** functions like 
 **Source**: [Matplotlib Quick Start Guide](https://matplotlib.org/stable/users/explain/quick_start.html)
 
 
+_________________
 
-
+1. [Python Company for Week 4](Week_4_Python(Fall2024).ipynb)
+2. Python Assinment for Week 4 
