@@ -65,4 +65,4 @@ In this optional task, you will create a **combined bar chart** that shows the c
 
 ### Remark:
 - You are required to complete this task in **Google Colab**. Name your file **Data110_YourName_Week4**. 
-- When submitting your assignment, upload your code, calculations, and final bar chart in the Google Colab Notebook and share the link to your Colab notebook.
+- When submitting your assignment, upload your code, calculations, and final bar chart in the Google Colab Notebook.
