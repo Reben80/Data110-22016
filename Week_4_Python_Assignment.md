@@ -57,13 +57,13 @@ In this optional task, you will create a **combined bar chart** that shows the c
 ### Instructions:
 - Calculate the **crime rates for 2022** based on the 2023 values and the percentage changes provided.
   - Use the formula:
-    \[
+   $$
     \text{Crime Rate in 2022} = \frac{\text{Crime Rate in 2023}}{1 + \frac{\text{Percentage Change}}{100}}
-    \]
+    $$
   - For example, if the crime rate for **Motor Vehicle Theft** in 2023 is **318.7** with a **12% increase**, you would calculate the 2022 value as:
-    \[
+ $$
     \text{Crime Rate in 2022} = \frac{318.7}{1 + \frac{12}{100}} = 284.5
-    \]
+    $$
     
 - Create a **combined bar chart** that compares the crime rates for 2022 and 2023 for each offense type.
 - Use different colors to distinguish between the years 2022 and 2023.
