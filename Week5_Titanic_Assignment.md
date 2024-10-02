@@ -32,8 +32,7 @@ You are required to perform a detailed analysis of the Titanic dataset and draw 
 
 ### Part 3: Class and Fare Analysis
 5. **Task 5: Passenger Class Distribution**  
-   - Create a bar plot showing the number of passengers in each class (`Pclass`).  
-   - Create a boxplot to visualize the distribution of fares paid by passengers in each class.  
+   - Create a bar plot showing the number of passengers in each class (`Pclass`).   
    *Question*: Is there a relationship between passenger class and fare? What insights can you draw from this?
 
 6. **Task 6: Class and Survival**  
@@ -41,11 +40,8 @@ You are required to perform a detailed analysis of the Titanic dataset and draw 
    *Question*: What patterns do you observe in survival rates across different classes? How does this reflect the historical context of the Titanic tragedy?
 
 ### Part 4: Advanced Insight
-7. **Task 7: Correlation Heatmap**  
-   - Use `seaborn` to create a heatmap showing the correlations between numerical variables (`Age`, `Fare`, `Pclass`, etc.).  
-   *Question*: Based on the heatmap, which factors appear to be most related to survival? Discuss any surprising or expected correlations.
 
-8. **Task 8: Passenger Location Analysis (Optional)**  
+7. **Task 8: Passenger Location Analysis (Optional)**  
    - Investigate the `Embarked` column to explore if the port of embarkation influenced survival rates.  
    *Question*: Are there differences in survival based on where passengers boarded the Titanic?
 
