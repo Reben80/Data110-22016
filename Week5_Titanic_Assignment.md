@@ -52,7 +52,7 @@ titanic.head()
    *Question*: What can you infer from the age and sex distribution in relation to survival rates?
 
 ### Optional Task: Exploring Additional Visualizations
-- **Task 7 (Optional): Bar Graph, Line Plot, and Scatter Plot**  
+7.  **Task 7 (Optional): Bar Graph, Line Plot, and Scatter Plot**  
    - Create a bar graph, line plot, and scatter plot using the Titanic dataset.  
    *Suggestions*: You can explore variables like survival rates, passenger class, age, or fare in these plots.
    *Question*: What additional insights do these visualizations provide that weren't evident from the histograms and KDE plots?
