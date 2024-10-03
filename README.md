@@ -34,7 +34,21 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
   -  Simple Bar Charts: Individual amounts; start y-axis at zero.
   -   Grouped Bar Charts: Compare values within a category.
   -   Stacked Bar Charts: Show parts of a whole.
-   
+
+
+
+### [Week 5: Histograms and KDE with Matplotlib](Week5.md)
+
+**Summary**:
+
+**Week Focus**: Visualizing distributions using histograms and Kernel Density Estimation (KDE).
+- Plot Types:
+  - **Histograms**: Represent frequency of data within bins; adjust bin width for better clarity.
+  - **Kernel Density Estimation (KDE)**: Smooths data to show continuous distribution trends.
+  - **Stacked Histograms**: Display how parts of a dataset contribute to the whole, stacked across different categories.
+  - **Combined KDE**: Overlay multiple KDE plots to compare distributions for different categories.
+  - **Combined Histograms**: Overlay multiple histograms with transparency to compare distributions across categories (e.g., male vs. female).
+
 -----------
 
 ### [Q&A](Q&A.md)
