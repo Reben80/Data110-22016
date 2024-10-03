@@ -128,6 +128,6 @@ For more on colors, visit the [Matplotlib Color Documentation](https://matplotli
 
 ----------
 Week 4 supplement
-1. ![Python Lab](Week_4_Python(Fall2024).ipynb)
-2. ![Week 4 Python Assignment](Week_4_Python_Assignment.md)
-3. 
+1. [Python Lab](Week_4_Python(Fall2024).ipynb)
+2. [Week 4 Python Assignment](Week_4_Python_Assignment.md)
+
