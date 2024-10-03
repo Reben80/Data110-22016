@@ -67,33 +67,15 @@ While histograms and density plots are great for visualizing distributions, they
 
 ---
 
-## Example: Age Distribution of Survivors in the Titanic Dataset
-
-The histogram below shows the age distribution of survivors from the Titanic, revealing that younger passengers had a higher likelihood of surviving the disaster.
-
-![Age Distribution Example](media/age_distribution_titanic.png)
-
-- **Why it’s effective**: Histograms provide a clear view of the frequency of different age groups, while KDE gives a smoother representation of the overall trend.
-
----
-
-## Anatomy of a Matplotlib Figure (Revisited)
-
-As we continue to work with **Matplotlib** this week, remember that you can customize your visualizations using the same tools we covered in Week 4. Here’s a quick reference for the anatomy of a Matplotlib figure:
-
-![Anatomy of a Figure](media/anatomy.webp)
-
----
-
 ## Understanding Bandwidth in KDE
 
 One of the key decisions when creating a KDE plot is selecting the appropriate bandwidth. Bandwidth controls how smooth or detailed the density estimate is, with smaller bandwidths capturing more detail but potentially adding noise, and larger bandwidths providing a smoother, less detailed curve.
 
-For more on bandwidth selection, refer to the [Matplotlib KDE Documentation](https://matplotlib.org/stable/users/explain/density_estimates.html).
 
 ---
 
 ### Week 5 Supplement
-1. ![Python Lab](Week5_Code_Titanic.ipynb)
-2. ![Week 5 Python Assignment](Week_5_Python_Assignment.md)
+1. [Python Lab](Week5_Code_Titanic.ipynb)
+2. [Week 5 Python Assignment](Week_5_Python_Assignment.md)
+
 
