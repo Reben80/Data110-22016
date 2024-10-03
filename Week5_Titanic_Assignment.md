@@ -51,6 +51,13 @@ titanic.head()
    - Create a **pyramid-style histogram** (also known as a population pyramid) for age, showing survival data split by sex. If possible, attempt to find or create one.  
    *Question*: What can you infer from the age and sex distribution in relation to survival rates?
 
+### Optional Task: Exploring Additional Visualizations
+- **Task 7 (Optional): Bar Graph, Line Plot, and Scatter Plot**  
+   - Create a bar graph, line plot, and scatter plot using the Titanic dataset.  
+   *Suggestions*: You can explore variables like survival rates, passenger class, age, or fare in these plots.
+   *Question*: What additional insights do these visualizations provide that weren't evident from the histograms and KDE plots?
+
+
 
 ## Key Focus:
 
