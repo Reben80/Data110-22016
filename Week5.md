@@ -94,6 +94,6 @@ For more on bandwidth selection, refer to the [Matplotlib KDE Documentation](htt
 ---
 
 ### Week 5 Supplement
-1. ![Python Lab](Week_5_Python(Fall2024).ipynb)
+1. ![Python Lab](Week5_Code_Titanic.ipynb)
 2. ![Week 5 Python Assignment](Week_5_Python_Assignment.md)
 
