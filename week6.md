@@ -37,8 +37,9 @@ The book delves into the intriguing concept of shaping perception through the st
 
 ---------
 ### Python Coding 
-Druing week 6 in class, we'll tackle the challenge of visualizing multiple distributions at once, like temperature variations across months. We'll move beyond traditional methods to explore techniques such as boxplots, violin plots, and ridgeline plots, ideal for these scenarios. We'll focus on how to use response and grouping variables effectively, providing a clear view of distinct distributions. This will equip you with advanced strategies for presenting complex data in a coherent and insightful manner. For practical application, here we have the Python code that demonstrates all of these plots (box plots, violin plots, and ridgeline plots): https://github.com/Reben80/Data110-32213/blob/main/Week6.ipynb.
-
+Druing week 6 in class, we'll tackle the challenge of visualizing multiple distributions at once, like temperature variations across months. We'll move beyond traditional methods to explore techniques such as boxplots, violin plots, and ridgeline plots, ideal for these scenarios. We'll focus on how to use response and grouping variables effectively, providing a clear view of distinct distributions. This will equip you with advanced strategies for presenting complex data in a coherent and insightful manner. For practical application, here we have the Python code that demonstrates all of these plots (box plots, violin plots, and ridgeline plots): [Python Lab](Week6_Temperature_Lincoln.ipynb).
+- More Reading related to this: [9 Visualizing many distributions at once](https://clauswilke.com/dataviz/boxplots-violins.html)
+- [Slides](https://wilkelab.org/DSC385/slides/visualizing-distributions-2.html#1)
 
 
 
