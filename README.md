@@ -41,7 +41,7 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 **Summary**:
 
-**Week Focus**: Visualizing distributions using histograms and Kernel Density Estimation (KDE).
+**Week Focus**: Visualizing distributions I using histograms and Kernel Density Estimation (KDE).
 - Plot Types:
   - **Histograms**: Represent frequency of data within bins; adjust bin width for better clarity.
   - **Kernel Density Estimation (KDE)**: Smooths data to show continuous distribution trends.
@@ -50,7 +50,7 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
   - **Combined Histograms**: Overlay multiple histograms with transparency to compare distributions across categories (e.g., male vs. female).
  
 
-### [Week 6: Anaconda and Project 1](Week6.md)
+### [Week 6: Visualizing distribution II and Project 1](week6.md)
 
 -----------
 
