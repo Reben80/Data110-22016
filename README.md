@@ -50,7 +50,7 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
   - **Combined Histograms**: Overlay multiple histograms with transparency to compare distributions across categories (e.g., male vs. female).
  
 
-### [Week 6: Visualizing distribution II and Project 1](week6.md)
+### [Week 6: Visualizing distribution II and Ethics in data visualization](week6.md)
 
 -----------
 
