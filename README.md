@@ -48,6 +48,9 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
   - **Stacked Histograms**: Display how parts of a dataset contribute to the whole, stacked across different categories.
   - **Combined KDE**: Overlay multiple KDE plots to compare distributions for different categories.
   - **Combined Histograms**: Overlay multiple histograms with transparency to compare distributions across categories (e.g., male vs. female).
+ 
+
+### [Week 6: Anaconda and Project 1](Week6.md)
 
 -----------
 
