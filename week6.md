@@ -53,7 +53,7 @@ Druing week 6 in class, we'll tackle the challenge of visualizing multiple distr
 -------
 ### Week 6 Supplement
 1. [Python Lab](Week6_Temperature_Lincoln.ipynb)
-2. Project 1
+2. [Project 1](Project1.md)
 
 
 
