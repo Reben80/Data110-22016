@@ -52,6 +52,9 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 ### [Week 6: Visualizing distribution II and Ethics in data visualization](week6.md)
 
+
+
+### [Week 7: Penguins Dataset](Week6.md)
 -----------
 
 ### [Q&A](Q&A.md)
