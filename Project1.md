@@ -34,7 +34,7 @@ Your task is to select a dataset, perform exploratory data analysis (EDA), and p
 
 ## Submission Guidelines
 
-- Submit both your project report and presentation slides by the end of Week 9 ( The week after spring break **March 20**).
+- Submit both your project report and presentation slides by the end of Week 9.
 - Ensure all code used for data manipulation and visualization is well-commented and included in an appendix or separate file.
 
 # Project 1 Rubric and Evaluation Criteria
