@@ -47,5 +47,5 @@ Provide a brief interpretation (2-3 sentences) for each of the visualizations an
 
 
 ## Resources
-- 
+- [The work we did in class on Penguisns Dataset](Week7.ipynb) 
 
