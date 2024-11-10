@@ -58,9 +58,9 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 -----------
 
 
-### [Week 8: Project 1 Presentation](Week8.md)
-
 ### [Week 9: Project 1 Presentation](Week9.md)
+
+### [Week 10: Project 1 Presentation](Week10.md)
 ### [Q&A](Q&A.md)
 
 For more detailed answers to common questions about the course, check out the full Q&A section. This resource covers everything from course materials and tools to tips for succeeding in Data Science.
