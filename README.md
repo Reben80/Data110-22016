@@ -54,9 +54,13 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 
 
-### [Week 7: Penguins Dataset](Week6.md)
+### [Week 7: Penguins Dataset](Week7.md)
 -----------
 
+
+### [Week 8: Project 1 Presentation](Week8.md)
+
+### [Week 9: Project 1 Presentation](Week9.md)
 ### [Q&A](Q&A.md)
 
 For more detailed answers to common questions about the course, check out the full Q&A section. This resource covers everything from course materials and tools to tips for succeeding in Data Science.
