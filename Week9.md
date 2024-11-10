@@ -25,5 +25,5 @@
 
 #### Next Steps
 
-- Continue with more advanced data visualization techniques.
-- Start a group project using another public dataset.
+- Continue with more advanced data visualization techniques (Geospatial Heatmap).
+
