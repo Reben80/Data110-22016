@@ -84,8 +84,8 @@ Using the **Liquor_Licenses_DC.csv** dataset:
 1. The **BPD_Arrests.csv** dataset is large and can be found in the MS Teams Challenge folder named **Dataset**. Ensure you handle the dataset efficiently when processing the data for visualization.
 2. Class components for this week include:
    - **Google Colab Notebooks**: 
-     - `Week11_part1.ipynb`
-     - `Week11_part2.ipynb`
+   - [Google Colab:John Snow's Map ](Week11_part1.ipynb)
+   - [Google Colab: Crime and Liquor Licences](Week11_part2.ipynb)
    - **Datasets**:
      - `BPD_Arrests.csv`
      - `Crime_Incidents_DC_2024.csv`
