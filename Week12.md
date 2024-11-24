@@ -50,6 +50,8 @@ This week involved working with a variety of datasets to create meaningful visua
 
 These datasets provided a foundation for exploring geographic and demographic data across different scales, from global to local levels.
 
+5. [Week 12 Google Colab](Week12.ipynb)
+
 ## 5. Summary
 - Practical application of libraries such as  `plotly` and `squarify`.
 - Emphasis on creating interactive and engaging visualizations for better understanding of geographic and demographic trends.
