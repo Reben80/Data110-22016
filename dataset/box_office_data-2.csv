@@ -1,4 +1,4 @@
-rank,release,gross,lw,theaters,change,average,total_gross,weeks,distributor
+rank,lw,Movie,weeks,theaters,change,average,lw,total_gross,distributor
 1,1,Argylle,"$6,249,360",-64.2%,"3,605",-,"$1,733","$28,563,505",2
 2,-,Lisa Frankenstein,"$3,695,785",-,"3,144",-,"$1,175","$3,695,785",1
 3,3,The Beekeeper,"$3,398,372",-35.7%,"3,057",-220,"$1,111","$54,663,224",5
@@ -66,3 +66,4 @@ rank,release,gross,lw,theaters,change,average,total_gross,weeks,distributor
 65,49,One from the Heart: Reprise,$496,-90%,2,-5,$248,"$41,576",4
 66,60,The Shift,$234,-60.4%,2,-7,$117,"$12,116,488",11
 67,-,Godard Cinema,$72,-,1,-,$72,"$22,829",9
+
